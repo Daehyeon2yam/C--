@@ -25,9 +25,24 @@ string blackfirst[8]={
     {"BWBWBWBW"},
     {"WBWBWBWB"}
 };
+int blackchange(int x,int y){
+
+    for(int i=x;x)
+}
 
 
 int main(void){
+
+    cin>>N>>M; //N,M을 입력받는다.
+
+    int cnt=0;//바꿔야할 값 
+    for(int i=0; i<N; i++){
+        cin>>chess[i];
+    }//chess값 입력
+
+
+
+
 
 
     return 0;
