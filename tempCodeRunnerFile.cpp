@@ -1,1 +1,1 @@
-~
+heapify(array,i,N);
