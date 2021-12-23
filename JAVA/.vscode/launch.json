@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DriverExample",
+            "request": "launch",
+            "mainClass": "DriverExample",
+            "projectName": "JAVA_bda56ecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnimalExample",
+            "request": "launch",
+            "mainClass": "AnimalExample",
+            "projectName": "JAVA_bda56ecf"
+        },
+        {
+            "type": "java",
             "name": "Launch test",
             "request": "launch",
             "mainClass": "test",
