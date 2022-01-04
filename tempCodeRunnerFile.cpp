@@ -1,1 +1,0 @@
-heapify(array,i,N);
