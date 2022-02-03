@@ -34,7 +34,7 @@ class App extends React.Component{
       </Paper>
     );
 //함수 연결
-    return(
+    return (
       <div className="App">
         <Container maxWidth="md">
           <AddTodo add={this.add} />
